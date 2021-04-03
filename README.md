@@ -12,6 +12,7 @@ Assessing data
 Cleaning data
 Storing, analyzing, and visualizing your wrangled data
 Reporting on 1) your data wrangling efforts and 2) your data analyses and visualizations
+
 **Project Motivation**
 
 After assessing all files for the first time, I found out that I wanted to know more about each dog type and their given names. As I am very new to this particular field (confession: I do not have a dog) I wanted to know what species of dogs are the most popular posted on twitter. Moreover, I was pretty courious about the most popular dog names, having actually several ones i mind.
